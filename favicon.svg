@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="J.E.V. favicon">
+  <rect x="0" y="0" width="256" height="256" rx="51" fill="#6BACE4"/>
+  <rect x="17" y="17" width="222" height="222" rx="41" fill="none" stroke="#E81828" stroke-width="7"/>
+  <rect x="24" y="24" width="208" height="208" rx="35" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="128" y="148"
+        text-anchor="middle"
+        font-family="Noto Serif Display, Georgia, Times New Roman, serif"
+        font-size="84"
+        font-weight="900"
+        font-style="italic"
+        fill="#E81828"
+        stroke="#FFFFFF"
+        stroke-width="3.7"
+        paint-order="stroke fill"
+        letter-spacing="-1">J.E.V.</text>
+</svg>
